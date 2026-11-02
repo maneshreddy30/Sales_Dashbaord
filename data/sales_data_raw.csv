@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Name,Gender,Age,City,State,Region,Category,Product,Quantity,Unit_Price,Sales,Discount,Profit,Payment_Mode,Order_Status
+ORD1001,2025-11-24,Manoj Kumar,Male,55,Kolkata,West Bengal,East,Clothing,Jeans,2,1800,3420.0,0.05,-271.05,Cash,Returned
+ORD1002,2025-01-17,Arun Raj,Male,46,Bengaluru,Karnataka,South,Furniture,Office Chair,5,7500,35625.0,0.05,-2265.58,Net Banking,Returned
+ORD1003,2025-05-23,Arun Sharma,Male,23,Kolkata,West Bengal,East,Home & Kitchen,Cookware Set,3,3800,10830.0,0.05,937.91,Cash,Delivered
+ORD1004,2025-02-19,Rahul Iyer,Male,53,Jaipur,Rajasthan,North,Clothing,T-Shirt,4,800,2560.0,0.2,182.32,Debit Card,Delivered
+ORD1005,2025-11-18,Lakshmi Iyer,Male,24,Jaipur,Rajasthan,North,Furniture,Office Chair,1,7500,7125.0,0.05,1292.63,Cash,Delivered
+ORD1006,2025-05-23,Deepa Iyer,Male,52,Madurai,Tamil Nadu,South,Clothing,Jacket,2,3200,5760.0,0.1,-413.81,Credit Card,Returned
+ORD1007,2025-03-25,Deepa Nair,Female,43,Hyderabad,Telangana,South,Stationery,Pen Set,3,180,540.0,0.0,48.03,Debit Card,Delivered
+ORD1008,2025-02-03,Divya Verma,Female,26,Kolkata,West Bengal,East,Clothing,Jeans,4,1800,6120.0,0.15,-347.05,Credit Card,Returned
+ORD1009,2025-10-15,Ajay Reddy,Female,23,Kolkata,West Bengal,East,Stationery,Desk Organizer,5,600,2550.0,0.15,284.43,UPI,Delivered
+ORD1010,2025-02-26,Vijay Sharma,Female,53,Bhubaneswar,Odisha,East,Home & Kitchen,Mixer Grinder,4,4200,14280.0,0.15,2160.58,UPI,Delivered
+ORD1011,2025-12-15,Manoj Patel,Male,34,Bhubaneswar,Odisha,East,Clothing,Jacket,1,3200,2880.0,0.1,356.86,Net Banking,Delivered
+ORD1012,2025-04-02,Pooja Raj,Male,56,Kochi,Kerala,South,Clothing,Jeans,2,1800,0.0,0.1,0.0,Debit Card,Cancelled
+ORD1013,2025-09-08,Arun Raj,Male,49,Mumbai,Maharashtra,West,Clothing,Jeans,1,1800,1710.0,0.05,340.74,UPI,Delivered
+ORD1014,2025-09-30,Vijay Sharma,Male,52,Lucknow,Uttar Pradesh,North,Home & Kitchen,Air Fryer,3,6500,15600.0,0.2,3093.69,Credit Card,Delivered
+ORD1015,2025-06-09,Sneha Iyer,Male,55,Ahmedabad,Gujarat,West,Stationery,Desk Organizer,1,600,570.0,0.05,50.27,Net Banking,Delivered
+ORD1016,2025-04-28,Harish Singh,Male,50,Chennai,Tamil Nadu,South,Electronics,Laptop,2,55000,110000.0,0.0,22431.35,Credit Card,Delivered
+ORD1017,2025-05-23,Vikram Singh,Male,24,Delhi,Delhi,North,Furniture,Sofa,2,22000,37400.0,0.15,7004.07,Cash,Delivered
+ORD1018,2025-07-01,Naveen Nair,Male,30,Ahmedabad,Gujarat,West,Electronics,Laptop,1,55000,46750.0,0.15,8124.98,Credit Card,Delivered
+ORD1019,2025-10-02,Deepa Sharma,Female,53,Pune,Maharashtra,West,Furniture,Bookshelf,4,6500,24700.0,0.05,4906.97,UPI,Delivered
+ORD1020,2025-01-26,Ajay Kumar,Male,28,Coimbatore,Tamil Nadu,South,Furniture,Desk,4,12000,40800.0,0.15,5378.7,Cash,Delivered
+ORD1021,2025-01-02,Sneha Reddy,Male,30,Bhubaneswar,Odisha,East,Home & Kitchen,Cookware Set,4,3800,12160.0,0.2,1976.22,Debit Card,Delivered
+ORD1022,2025-04-22,Kumar Verma,Male,21,Kolkata,West Bengal,East,Stationery,Notebook,3,250,750.0,0.0,43.89,Net Banking,Delivered
+ORD1023,2025-02-11,Priya Raj,Male,55,Jaipur,Rajasthan,North,Electronics,Smartphone,4,25000,0.0,0.0,0.0,Net Banking,Cancelled
+ORD1024,2025-01-21,Lakshmi Raj,Male,34,Pune,Maharashtra,West,Stationery,Backpack,3,1200,3420.0,0.05,560.38,Cash,Delivered
+ORD1025,2025-03-09,Suresh Das,Male,52,Mumbai,Maharashtra,West,Electronics,Laptop,4,55000,176000.0,0.2,38673.76,Credit Card,Delivered
+ORD1026,2025-09-17,Karthik Sharma,Female,57,Mumbai,Maharashtra,West,Electronics,Smartphone,3,25000,0.0,0.1,0.0,Net Banking,Cancelled
+ORD1027,2025-01-05,Ajay Reddy,Female,36,Lucknow,Uttar Pradesh,North,Electronics,Smartphone,3,25000,75000.0,0.0,-4819.34,Net Banking,Returned
+ORD1028,2025-04-18,Meena Singh,Female,20,Lucknow,Uttar Pradesh,North,Clothing,Sneakers,3,3500,10500.0,0.0,689.75,UPI,Delivered
+ORD1029,2025-06-20,Vijay Reddy,Male,41,Madurai,Tamil Nadu,South,Home & Kitchen,Coffee Maker,5,5200,26000.0,0.0,-2400.17,Net Banking,Returned
+ORD1030,2025-10-10,Vijay Nair,Male,60,Madurai,Tamil Nadu,South,Electronics,Tablet,3,18000,54000.0,0.0,10952.13,UPI,Delivered
+ORD1031,2025-07-01,Ajay Nair,Male,39,Jaipur,Rajasthan,North,Furniture,Desk,2,12000,22800.0,0.05,4556.37,Cash,Delivered
+ORD1032,2025-12-09,Anitha Reddy,Female,37,Madurai,Tamil Nadu,South,Electronics,Monitor,1,15000,12750.0,0.15,1119.63,Credit Card,Delivered
+ORD1033,2025-04-25,Arun Singh,Female,52,Pune,Maharashtra,West,Clothing,Jacket,1,3200,0.0,0.1,0.0,Debit Card,Cancelled
+ORD1034,2025-01-15,Manoj Reddy,Female,45,Madurai,Tamil Nadu,South,Stationery,Backpack,1,1200,1200.0,0.0,181.7,Net Banking,Delivered
+ORD1035,2025-09-19,Manoj Nair,Male,41,Jaipur,Rajasthan,North,Furniture,Bookshelf,1,6500,0.0,0.15,0.0,Cash,Cancelled
+ORD1036,2025-02-05,Meena Verma,Female,36,Mumbai,Maharashtra,West,Electronics,Tablet,5,18000,81000.0,0.1,13233.12,Net Banking,Delivered
+ORD1037,2025-03-07,Divya Nair,Male,37,Lucknow,Uttar Pradesh,North,Home & Kitchen,Air Fryer,5,6500,0.0,0.2,0.0,Debit Card,Cancelled
+ORD1038,2025-04-18,Naveen Verma,Female,28,Jaipur,Rajasthan,North,Clothing,Sneakers,4,3500,0.0,0.15,0.0,UPI,Cancelled
+ORD1039,2025-05-26,Pooja Verma,Male,20,Mumbai,Maharashtra,West,Electronics,Smartphone,3,25000,71250.0,0.05,13331.99,Credit Card,Delivered
+ORD1040,2025-09-01,Lakshmi Raj,Male,24,Ahmedabad,Gujarat,West,Home & Kitchen,Air Fryer,4,6500,22100.0,0.15,2606.5,Cash,Delivered
+ORD1041,2025-04-23,Priya Patel,Female,46,Ahmedabad,Gujarat,West,Electronics,Headphones,2,2500,5000.0,0.0,637.99,Net Banking,Delivered
+ORD1042,2025-09-16,Naveen Patel,Female,58,Ahmedabad,Gujarat,West,Furniture,Sofa,4,22000,79200.0,0.1,-3341.04,Credit Card,Returned
+ORD1043,2025-05-21,Deepa Raj,Male,26,Kolkata,West Bengal,East,Clothing,Jeans,3,1800,0.0,0.1,0.0,Credit Card,Cancelled
+ORD1044,2025-04-29,Sneha Sharma,Female,21,Kolkata,West Bengal,East,Furniture,Office Chair,4,7500,25500.0,0.15,2709.37,Credit Card,Delivered
+ORD1045,2025-08-04,Sneha Verma,Female,42,Kolkata,West Bengal,East,Electronics,Headphones,4,2500,8500.0,0.15,433.52,Cash,Delivered
+ORD1046,2025-10-03,Ajay Verma,Female,60,Bengaluru,Karnataka,South,Home & Kitchen,Air Fryer,3,6500,16575.0,0.15,2197.17,Cash,Delivered
+ORD1047,2025-03-26,Deepa Sharma,Male,59,Jaipur,Rajasthan,North,Stationery,Notebook,4,250,800.0,0.2,116.76,Cash,Delivered
+ORD1048,2025-03-11,Deepa Sharma,Female,35,Chennai,Tamil Nadu,South,Clothing,Sneakers,3,3500,9975.0,0.05,1269.81,Cash,Delivered
+ORD1049,2025-05-10,Ravi Das,Male,33,Chennai,Tamil Nadu,South,Stationery,Notebook,3,250,712.5,0.05,-16.54,Credit Card,Returned
+ORD1050,2025-01-11,Lakshmi Sharma,Female,41,Bengaluru,Karnataka,South,Furniture,Sofa,1,22000,17600.0,0.2,3715.69,Credit Card,Delivered
+ORD1051,2025-11-07,Lakshmi Raj,Female,43,Bhubaneswar,Odisha,East,Furniture,Bookshelf,1,6500,5200.0,0.2,282.7,Credit Card,Delivered
+ORD1052,2025-02-08,Harish Singh,Female,22,Coimbatore,Tamil Nadu,South,Clothing,T-Shirt,5,800,4000.0,0.0,436.1,Net Banking,Delivered
+ORD1053,2025-11-28,Meena Kumar,Female,27,Kochi,Kerala,South,Home & Kitchen,Coffee Maker,1,5200,4420.0,0.15,-403.66,Cash,Returned
+ORD1054,2025-04-01,Pooja Reddy,Female,38,Jaipur,Rajasthan,North,Stationery,Desk Organizer,4,600,0.0,0.15,0.0,Credit Card,Cancelled
+ORD1055,2025-02-14,Karthik Das,Male,49,Bengaluru,Karnataka,South,Home & Kitchen,Coffee Maker,3,5200,15600.0,0.0,2090.9,Credit Card,Delivered
+ORD1056,2025-07-01,Karthik Iyer,Male,33,Hyderabad,Telangana,South,Stationery,Backpack,5,1200,6000.0,0.0,826.96,Cash,Delivered
+ORD1057,2025-09-08,Ajay Singh,Female,33,Kolkata,West Bengal,East,Home & Kitchen,Coffee Maker,4,5200,20800.0,0.0,1369.04,Debit Card,Delivered
+ORD1058,2025-12-06,Harish Iyer,Female,34,Ahmedabad,Gujarat,West,Stationery,Backpack,4,1200,3840.0,0.2,-216.19,Credit Card,Returned
+ORD1059,2025-03-03,Divya Iyer,Female,24,Coimbatore,Tamil Nadu,South,Stationery,Pen Set,2,180,342.0,0.05,60.04,Credit Card,Delivered
+ORD1060,2025-06-01,Anitha Iyer,Female,26,Madurai,Tamil Nadu,South,Clothing,T-Shirt,5,800,3800.0,0.05,367.21,Cash,Delivered
+ORD1061,2025-02-22,Arun Verma,Female,48,Hyderabad,Telangana,South,Home & Kitchen,Coffee Maker,4,5200,18720.0,0.1,1522.72,UPI,Delivered
+ORD1062,2025-02-03,Sneha Das,Male,33,Coimbatore,Tamil Nadu,South,Stationery,Notebook,2,250,475.0,0.05,89.25,UPI,Delivered
+ORD1063,2025-10-13,Naveen Verma,Female,55,Jaipur,Rajasthan,North,Stationery,Pen Set,5,180,765.0,0.15,96.84,Cash,Delivered
+ORD1064,2025-06-06,Harish Verma,Male,33,Chennai,Tamil Nadu,South,Stationery,Notebook,2,250,475.0,0.05,45.12,Credit Card,Delivered
+ORD1065,2025-10-10,Ravi Sharma,Female,36,Chennai,Tamil Nadu,South,Home & Kitchen,Coffee Maker,5,5200,22100.0,0.15,2199.26,Cash,Delivered
+ORD1066,2025-02-06,Anitha Reddy,Female,27,Bhubaneswar,Odisha,East,Stationery,Pen Set,4,180,720.0,0.0,-22.98,UPI,Returned
+ORD1067,2025-01-31,Priya Reddy,Female,35,Jaipur,Rajasthan,North,Stationery,Backpack,4,1200,4800.0,0.0,622.46,Net Banking,Delivered
+ORD1068,2025-10-04,Vikram Das,Male,32,Coimbatore,Tamil Nadu,South,Stationery,Notebook,4,250,900.0,0.1,137.37,Net Banking,Delivered
+ORD1069,2025-10-28,Arun Reddy,Male,55,Jaipur,Rajasthan,North,Electronics,Smartphone,4,25000,80000.0,0.2,12860.53,Cash,Delivered
+ORD1070,2025-11-22,Vikram Raj,Female,44,Ahmedabad,Gujarat,West,Clothing,Sneakers,3,3500,9450.0,0.1,1549.07,Cash,Delivered
+ORD1071,2025-05-28,Sneha Patel,Male,60,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,3,4200,11340.0,0.1,1190.21,Net Banking,Delivered
+ORD1072,2025-08-25,Naveen Kumar,Male,35,Bengaluru,Karnataka,South,Stationery,Backpack,5,1200,5100.0,0.15,797.23,Net Banking,Delivered
+ORD1073,2025-03-09,Suresh Das,Male,53,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,1,4200,3360.0,0.2,-109.77,Cash,Returned
+ORD1074,2025-02-17,Anitha Raj,Female,48,Ahmedabad,Gujarat,West,Electronics,Smartphone,4,25000,90000.0,0.1,12285.74,Cash,Delivered
+ORD1075,2025-05-05,Deepa Patel,Male,35,Madurai,Tamil Nadu,South,Home & Kitchen,Air Fryer,5,6500,26000.0,0.2,4598.61,Cash,Delivered
+ORD1076,2025-06-24,Pooja Reddy,Male,46,Kochi,Kerala,South,Electronics,Tablet,3,18000,43200.0,0.2,-2556.2,Net Banking,Returned
+ORD1077,2025-09-05,Rahul Iyer,Female,32,Delhi,Delhi,North,Stationery,Desk Organizer,4,600,2160.0,0.1,-84.47,Cash,Returned
+ORD1078,2025-01-23,Meena Das,Female,24,Kolkata,West Bengal,East,Home & Kitchen,Coffee Maker,2,5200,8840.0,0.15,1891.94,Cash,Delivered
+ORD1079,2025-02-21,Pooja Das,Female,57,Chennai,Tamil Nadu,South,Furniture,Sofa,2,22000,44000.0,0.0,5711.79,Cash,Delivered
+ORD1080,2025-11-29,Ravi Iyer,Male,33,Kochi,Kerala,South,Stationery,Desk Organizer,3,600,1530.0,0.15,303.41,Debit Card,Delivered
+ORD1081,2025-04-27,Ravi Nair,Female,21,Coimbatore,Tamil Nadu,South,Electronics,Monitor,2,15000,27000.0,0.1,5496.72,Debit Card,Delivered
+ORD1082,2025-07-03,Rahul Nair,Female,57,Madurai,Tamil Nadu,South,Furniture,Sofa,5,22000,104500.0,0.05,8244.76,Credit Card,Delivered
+ORD1083,2025-09-12,Harish Sharma,Female,52,Bengaluru,Karnataka,South,Home & Kitchen,Cookware Set,4,3800,13680.0,0.1,2234.8,Credit Card,Delivered
+ORD1084,2025-02-07,Deepa Iyer,Female,48,Jaipur,Rajasthan,North,Clothing,Sneakers,3,3500,8925.0,0.15,1728.79,UPI,Delivered
+ORD1085,2025-05-02,Sneha Verma,Male,54,Mumbai,Maharashtra,West,Stationery,Backpack,3,1200,3600.0,0.0,-185.99,UPI,Returned
+ORD1086,2025-11-07,Vikram Reddy,Male,58,Bhubaneswar,Odisha,East,Furniture,Bookshelf,2,6500,12350.0,0.05,-993.51,UPI,Returned
+ORD1087,2025-11-18,Kumar Reddy,Female,38,Bhubaneswar,Odisha,East,Home & Kitchen,Mixer Grinder,5,4200,18900.0,0.1,3298.07,Cash,Delivered
+ORD1088,2025-03-31,Divya Sharma,Female,48,Bhubaneswar,Odisha,East,Stationery,Backpack,5,1200,4800.0,0.2,985.41,Debit Card,Delivered
+ORD1089,2025-06-23,Manoj Das,Male,34,Coimbatore,Tamil Nadu,South,Furniture,Desk,4,12000,38400.0,0.2,4307.78,Net Banking,Delivered
+ORD1090,2025-03-05,Deepa Iyer,Male,57,Lucknow,Uttar Pradesh,North,Clothing,Sneakers,3,3500,10500.0,0.0,1729.58,Net Banking,Delivered
+ORD1091,2025-06-17,Lakshmi Singh,Male,37,Lucknow,Uttar Pradesh,North,Electronics,Monitor,3,15000,38250.0,0.15,2671.19,Cash,Delivered
+ORD1092,2025-03-01,Manoj Singh,Female,55,Delhi,Delhi,North,Furniture,Sofa,4,22000,79200.0,0.1,-5996.92,Credit Card,Returned
+ORD1093,2025-08-01,Manoj Das,Male,41,Jaipur,Rajasthan,North,Home & Kitchen,Cookware Set,1,3800,3420.0,0.1,297.32,UPI,Delivered
+ORD1094,2025-12-18,Rahul Patel,Female,23,Lucknow,Uttar Pradesh,North,Clothing,T-Shirt,4,800,2880.0,0.1,236.93,Credit Card,Delivered
+ORD1095,2025-11-25,Lakshmi Kumar,Male,55,Chennai,Tamil Nadu,South,Clothing,Jeans,2,1800,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1096,2025-04-30,Meena Sharma,Female,29,Bhubaneswar,Odisha,East,Stationery,Notebook,3,250,0.0,0.05,0.0,UPI,Cancelled
+ORD1097,2025-12-05,Arun Sharma,Male,26,Chennai,Tamil Nadu,South,Clothing,Jeans,5,1800,8100.0,0.1,426.73,Cash,Delivered
+ORD1098,2025-09-27,Manoj Raj,Male,57,Ahmedabad,Gujarat,West,Home & Kitchen,Cookware Set,5,3800,0.0,0.2,0.0,UPI,Cancelled
+ORD1099,2025-12-04,Pooja Reddy,Female,46,Ahmedabad,Gujarat,West,Electronics,Laptop,4,55000,187000.0,0.15,22901.24,UPI,Delivered
+ORD1100,2025-02-11,Meena Verma,Female,42,Madurai,Tamil Nadu,South,Electronics,Smartphone,3,25000,0.0,0.2,0.0,Net Banking,Cancelled
+ORD1101,2025-09-29,Suresh Das,Male,45,Delhi,Delhi,North,Stationery,Desk Organizer,1,600,600.0,0.0,-54.13,Cash,Returned
+ORD1102,2025-04-27,Naveen Iyer,Female,41,Kochi,Kerala,South,Home & Kitchen,Coffee Maker,4,5200,20800.0,0.0,2145.17,Credit Card,Delivered
+ORD1103,2025-12-18,Vikram Raj,Male,53,Coimbatore,Tamil Nadu,South,Electronics,Laptop,4,55000,220000.0,0.0,38847.63,UPI,Delivered
+ORD1104,2025-10-28,Ajay Patel,Female,56,Mumbai,Maharashtra,West,Electronics,Monitor,3,15000,38250.0,0.15,-922.43,Debit Card,Returned
+ORD1105,2025-06-30,Manoj Verma,Female,25,Delhi,Delhi,North,Furniture,Desk,4,12000,45600.0,0.05,8848.07,Debit Card,Delivered
+ORD1106,2025-10-21,Anitha Nair,Female,39,Kochi,Kerala,South,Stationery,Notebook,5,250,1125.0,0.1,61.79,Debit Card,Delivered
+ORD1107,2025-01-04,Priya Sharma,Male,42,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,2,4200,0.0,0.0,0.0,Cash,Cancelled
+ORD1108,2025-08-21,Meena Sharma,Male,28,Mumbai,Maharashtra,West,Clothing,Jacket,5,3200,12800.0,0.2,824.87,Net Banking,Delivered
+ORD1109,2025-01-26,Ravi Reddy,Male,40,Ahmedabad,Gujarat,West,Home & Kitchen,Coffee Maker,5,5200,22100.0,0.15,2661.09,Cash,Delivered
+ORD1110,2025-02-26,Suresh Verma,Male,18,Ahmedabad,Gujarat,West,Stationery,Backpack,1,1200,0.0,0.05,0.0,Credit Card,Cancelled
+ORD1111,2025-06-04,Divya Sharma,Male,42,Bhubaneswar,Odisha,East,Clothing,Jacket,3,3200,9600.0,0.0,-522.74,Net Banking,Returned
+ORD1112,2025-12-27,Anitha Patel,Male,38,Delhi,Delhi,North,Clothing,T-Shirt,4,800,3200.0,0.0,397.3,Net Banking,Delivered
+ORD1113,2025-08-08,Harish Nair,Male,57,Kolkata,West Bengal,East,Home & Kitchen,Cookware Set,1,3800,3230.0,0.15,172.95,Cash,Delivered
+ORD1114,2025-12-20,Rahul Raj,Female,37,Pune,Maharashtra,West,Electronics,Smartphone,4,25000,80000.0,0.2,9446.12,Debit Card,Delivered
+ORD1115,2025-04-24,Meena Sharma,Female,59,Coimbatore,Tamil Nadu,South,Stationery,Notebook,5,250,1000.0,0.2,82.96,Credit Card,Delivered
+ORD1116,2025-05-01,Manoj Sharma,Female,47,Hyderabad,Telangana,South,Furniture,Desk,5,12000,57000.0,0.05,-1483.61,Net Banking,Returned
+ORD1117,2025-10-24,Deepa Verma,Female,58,Lucknow,Uttar Pradesh,North,Stationery,Backpack,3,1200,3420.0,0.05,426.68,Debit Card,Delivered
+ORD1118,2025-05-21,Harish Kumar,Female,36,Mumbai,Maharashtra,West,Stationery,Notebook,3,250,637.5,0.15,80.85,UPI,Delivered
+ORD1119,2025-11-27,Ravi Verma,Female,54,Jaipur,Rajasthan,North,Stationery,Desk Organizer,4,600,1920.0,0.2,-176.01,Credit Card,Returned
+ORD1120,2025-06-14,Lakshmi Das,Male,50,Delhi,Delhi,North,Furniture,Office Chair,4,7500,30000.0,0.0,5635.93,Credit Card,Delivered
+ORD1121,2025-01-21,Anitha Das,Female,39,Ahmedabad,Gujarat,West,Stationery,Pen Set,3,180,486.0,0.1,100.14,Net Banking,Delivered
+ORD1122,2025-01-27,Meena Raj,Male,39,Mumbai,Maharashtra,West,Electronics,Headphones,4,2500,9000.0,0.1,-874.38,UPI,Returned
+ORD1123,2025-10-26,Vijay Iyer,Female,26,Hyderabad,Telangana,South,Home & Kitchen,Air Fryer,5,6500,32500.0,0.0,3335.44,Net Banking,Delivered
+ORD1124,2025-02-17,Naveen Patel,Female,30,Mumbai,Maharashtra,West,Electronics,Tablet,3,18000,51300.0,0.05,10860.15,Credit Card,Delivered
+ORD1125,2025-03-12,Vijay Raj,Male,56,Hyderabad,Telangana,South,Electronics,Headphones,5,2500,10000.0,0.2,564.17,Cash,Delivered
+ORD1126,2025-03-20,Priya Sharma,Female,57,Kochi,Kerala,South,Stationery,Pen Set,4,180,720.0,0.0,-55.85,Debit Card,Returned
+ORD1127,2025-08-18,Anitha Patel,Female,47,Bengaluru,Karnataka,South,Clothing,Sneakers,2,3500,0.0,0.1,0.0,Debit Card,Cancelled
+ORD1128,2025-07-15,Pooja Patel,Female,41,Pune,Maharashtra,West,Furniture,Desk,5,12000,57000.0,0.05,11309.39,Net Banking,Delivered
+ORD1129,2025-02-22,Pooja Raj,Female,23,Hyderabad,Telangana,South,Electronics,Smartphone,3,25000,63750.0,0.15,12998.76,Credit Card,Delivered
+ORD1130,2025-08-19,Rahul Kumar,Female,32,Pune,Maharashtra,West,Electronics,Monitor,5,15000,67500.0,0.1,6080.55,UPI,Delivered
+ORD1131,2025-06-13,Manoj Iyer,Male,48,Bhubaneswar,Odisha,East,Furniture,Desk,1,12000,10800.0,0.1,2224.34,Cash,Delivered
+ORD1132,2025-11-12,Arun Raj,Female,25,Chennai,Tamil Nadu,South,Clothing,Jeans,2,1800,0.0,0.2,0.0,Debit Card,Cancelled
+ORD1133,2025-05-02,Suresh Raj,Male,58,Chennai,Tamil Nadu,South,Furniture,Sofa,5,22000,93500.0,0.15,5673.32,Net Banking,Delivered
+ORD1134,2025-10-22,Anitha Sharma,Male,60,Hyderabad,Telangana,South,Home & Kitchen,Mixer Grinder,5,4200,18900.0,0.1,1717.93,UPI,Delivered
+ORD1135,2025-09-26,Rahul Raj,Female,34,Delhi,Delhi,North,Stationery,Notebook,4,250,850.0,0.15,48.79,UPI,Delivered
+ORD1136,2025-07-02,Ravi Iyer,Female,59,Bengaluru,Karnataka,South,Electronics,Headphones,3,2500,0.0,0.05,0.0,Credit Card,Cancelled
+ORD1137,2025-12-17,Deepa Das,Male,30,Lucknow,Uttar Pradesh,North,Furniture,Desk,1,12000,10200.0,0.15,574.13,UPI,Delivered
+ORD1138,2025-06-11,Suresh Patel,Female,40,Pune,Maharashtra,West,Stationery,Desk Organizer,3,600,1800.0,0.0,320.51,UPI,Delivered
+ORD1139,2025-12-02,Meena Reddy,Female,29,Coimbatore,Tamil Nadu,South,Clothing,Sneakers,4,3500,11900.0,0.15,2404.85,Cash,Delivered
+ORD1140,2025-12-21,Vikram Iyer,Male,52,Bhubaneswar,Odisha,East,Stationery,Backpack,1,1200,0.0,0.15,0.0,Debit Card,Cancelled
+ORD1141,2025-06-14,Manoj Raj,Female,40,Mumbai,Maharashtra,West,Clothing,Jacket,4,3200,10240.0,0.2,1761.31,Cash,Delivered
+ORD1142,2025-01-22,Rahul Verma,Male,27,Pune,Maharashtra,West,Clothing,T-Shirt,1,800,680.0,0.15,-50.56,Net Banking,Returned
+ORD1143,2025-12-14,Deepa Kumar,Male,56,Madurai,Tamil Nadu,South,Electronics,Smartphone,3,25000,0.0,0.1,0.0,Credit Card,Cancelled
+ORD1144,2025-12-14,Deepa Iyer,Female,59,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,5,4200,19950.0,0.05,2793.16,Debit Card,Delivered
+ORD1145,2025-05-08,Manoj Kumar,Female,34,Kolkata,West Bengal,East,Furniture,Sofa,5,22000,93500.0,0.15,19195.76,Cash,Delivered
+ORD1146,2025-04-20,Lakshmi Reddy,Male,46,Kolkata,West Bengal,East,Home & Kitchen,Air Fryer,1,6500,6175.0,0.05,1204.0,UPI,Delivered
+ORD1147,2025-12-16,Meena Iyer,Male,41,Kolkata,West Bengal,East,Electronics,Headphones,5,2500,11250.0,0.1,2267.17,Net Banking,Delivered
+ORD1148,2025-04-25,Manoj Singh,Female,47,Bhubaneswar,Odisha,East,Furniture,Desk,4,12000,0.0,0.0,0.0,Net Banking,Cancelled
+ORD1149,2025-03-08,Lakshmi Raj,Male,26,Coimbatore,Tamil Nadu,South,Clothing,Sneakers,4,3500,11200.0,0.2,1342.15,Debit Card,Delivered
+ORD1150,2025-11-25,Ravi Das,Male,45,Ahmedabad,Gujarat,West,Stationery,Backpack,2,1200,1920.0,0.2,304.83,Net Banking,Delivered
+ORD1151,2025-01-29,Manoj Patel,Female,51,Madurai,Tamil Nadu,South,Clothing,Jeans,2,1800,3240.0,0.1,676.85,Debit Card,Delivered
+ORD1152,2025-02-10,Karthik Singh,Male,55,Lucknow,Uttar Pradesh,North,Stationery,Backpack,2,1200,2160.0,0.1,333.62,Net Banking,Delivered
+ORD1153,2025-03-20,Priya Verma,Male,20,Kolkata,West Bengal,East,Stationery,Backpack,5,1200,6000.0,0.0,1141.74,Net Banking,Delivered
+ORD1154,2025-05-16,Divya Verma,Female,33,Pune,Maharashtra,West,Stationery,Notebook,4,250,800.0,0.2,79.4,Cash,Delivered
+ORD1155,2025-06-02,Deepa Raj,Female,56,Kolkata,West Bengal,East,Electronics,Smartphone,4,25000,85000.0,0.15,11247.43,Credit Card,Delivered
+ORD1156,2025-06-10,Meena Iyer,Female,25,Pune,Maharashtra,West,Furniture,Bookshelf,5,6500,26000.0,0.2,1769.33,Debit Card,Delivered
+ORD1157,2025-08-19,Anitha Sharma,Female,54,Coimbatore,Tamil Nadu,South,Electronics,Tablet,4,18000,57600.0,0.2,6974.38,Debit Card,Delivered
+ORD1158,2025-04-08,Priya Das,Female,33,Delhi,Delhi,North,Home & Kitchen,Coffee Maker,3,5200,13260.0,0.15,715.24,Credit Card,Delivered
+ORD1159,2025-10-26,Rahul Kumar,Male,45,Chennai,Tamil Nadu,South,Clothing,Sneakers,5,3500,14875.0,0.15,1466.34,Credit Card,Delivered
+ORD1160,2025-05-16,Rahul Nair,Female,22,Mumbai,Maharashtra,West,Electronics,Monitor,1,15000,12000.0,0.2,1746.11,Cash,Delivered
+ORD1161,2025-09-16,Deepa Patel,Female,27,Hyderabad,Telangana,South,Stationery,Notebook,2,250,500.0,0.0,58.48,Credit Card,Delivered
+ORD1162,2025-11-05,Pooja Nair,Female,27,Delhi,Delhi,North,Electronics,Laptop,1,55000,52250.0,0.05,8950.98,Net Banking,Delivered
+ORD1163,2025-09-21,Vijay Iyer,Female,50,Jaipur,Rajasthan,North,Clothing,Jeans,4,1800,5760.0,0.2,1011.94,Net Banking,Delivered
+ORD1164,2025-09-30,Vikram Verma,Female,58,Hyderabad,Telangana,South,Home & Kitchen,Mixer Grinder,3,4200,11340.0,0.1,1865.96,UPI,Delivered
+ORD1165,2025-11-02,Vikram Reddy,Female,27,Lucknow,Uttar Pradesh,North,Stationery,Pen Set,1,180,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1166,2025-01-17,Harish Raj,Female,21,Bengaluru,Karnataka,South,Electronics,Monitor,3,15000,38250.0,0.15,-1388.91,Credit Card,Returned
+ORD1167,2025-09-23,Divya Patel,Female,52,Mumbai,Maharashtra,West,Home & Kitchen,Coffee Maker,3,5200,0.0,0.05,0.0,Debit Card,Cancelled
+ORD1168,2025-12-13,Karthik Verma,Female,31,Ahmedabad,Gujarat,West,Furniture,Desk,3,12000,28800.0,0.2,2901.45,Cash,Delivered
+ORD1169,2025-06-12,Vikram Iyer,Female,40,Delhi,Delhi,North,Clothing,Jacket,1,3200,2560.0,0.2,422.47,Credit Card,Delivered
+ORD1170,2025-05-29,Kumar Reddy,Male,52,Kolkata,West Bengal,East,Electronics,Tablet,4,18000,64800.0,0.1,11472.68,Debit Card,Delivered
+ORD1171,2025-10-15,Karthik Sharma,Male,58,Coimbatore,Tamil Nadu,South,Stationery,Pen Set,2,180,0.0,0.0,0.0,Credit Card,Cancelled
+ORD1172,2025-01-27,Manoj Nair,Female,59,Mumbai,Maharashtra,West,Home & Kitchen,Mixer Grinder,2,4200,8400.0,0.0,1797.33,Cash,Delivered
+ORD1173,2025-09-02,Divya Reddy,Male,29,Mumbai,Maharashtra,West,Clothing,T-Shirt,1,800,640.0,0.2,-49.82,Cash,Returned
+ORD1174,2025-04-01,Kumar Nair,Male,39,Bhubaneswar,Odisha,East,Home & Kitchen,Air Fryer,3,6500,0.0,0.0,0.0,Debit Card,Cancelled
+ORD1175,2025-08-21,Ajay Patel,Male,47,Ahmedabad,Gujarat,West,Furniture,Sofa,3,22000,62700.0,0.05,11756.15,Debit Card,Delivered
+ORD1176,2025-04-06,Arun Iyer,Female,50,Bhubaneswar,Odisha,East,Clothing,Jeans,2,1800,2880.0,0.2,563.17,Debit Card,Delivered
+ORD1177,2025-02-14,Sneha Raj,Male,46,Madurai,Tamil Nadu,South,Furniture,Sofa,3,22000,62700.0,0.05,3207.8,Debit Card,Delivered
+ORD1178,2025-06-18,Suresh Verma,Male,47,Kolkata,West Bengal,East,Stationery,Notebook,3,250,675.0,0.1,113.25,Debit Card,Delivered
+ORD1179,2025-03-23,Sneha Patel,Male,48,Kolkata,West Bengal,East,Clothing,T-Shirt,3,800,2160.0,0.1,333.69,Credit Card,Delivered
+ORD1180,2025-08-21,Lakshmi Iyer,Male,51,Pune,Maharashtra,West,Stationery,Desk Organizer,5,600,2850.0,0.05,-229.08,Cash,Returned
+ORD1181,2025-09-28,Rahul Raj,Male,28,Jaipur,Rajasthan,North,Electronics,Laptop,5,55000,0.0,0.2,0.0,Debit Card,Cancelled
+ORD1182,2025-09-24,Deepa Raj,Female,26,Lucknow,Uttar Pradesh,North,Furniture,Sofa,1,22000,17600.0,0.2,2212.88,Net Banking,Delivered
+ORD1183,2025-08-01,Deepa Verma,Male,55,Chennai,Tamil Nadu,South,Stationery,Desk Organizer,3,600,1800.0,0.0,211.16,UPI,Delivered
+ORD1184,2025-01-24,Naveen Iyer,Male,36,Kolkata,West Bengal,East,Electronics,Headphones,1,2500,2500.0,0.0,544.11,Cash,Delivered
+ORD1185,2025-04-03,Vijay Nair,Male,59,Mumbai,Maharashtra,West,Home & Kitchen,Coffee Maker,4,5200,17680.0,0.15,-1590.57,Debit Card,Returned
+ORD1186,2025-03-02,Priya Patel,Female,52,Pune,Maharashtra,West,Stationery,Pen Set,2,180,360.0,0.0,64.28,Cash,Delivered
+ORD1187,2025-09-30,Sneha Singh,Male,60,Bengaluru,Karnataka,South,Home & Kitchen,Cookware Set,2,3800,6840.0,0.1,-555.68,Cash,Returned
+ORD1188,2025-11-11,Arun Singh,Male,33,Bengaluru,Karnataka,South,Electronics,Laptop,5,55000,275000.0,0.0,-20972.3,UPI,Returned
+ORD1189,2025-07-25,Deepa Singh,Female,54,Delhi,Delhi,North,Furniture,Office Chair,2,7500,12000.0,0.2,2626.71,Net Banking,Delivered
+ORD1190,2025-12-11,Meena Singh,Male,58,Hyderabad,Telangana,South,Furniture,Desk,4,12000,0.0,0.1,0.0,Cash,Cancelled
+ORD1191,2025-10-12,Vikram Kumar,Male,52,Mumbai,Maharashtra,West,Home & Kitchen,Cookware Set,4,3800,12920.0,0.15,973.74,Cash,Delivered
+ORD1192,2025-05-04,Anitha Reddy,Male,42,Kochi,Kerala,South,Furniture,Sofa,1,22000,17600.0,0.2,2114.73,Credit Card,Delivered
+ORD1193,2025-05-11,Divya Iyer,Male,35,Lucknow,Uttar Pradesh,North,Electronics,Monitor,3,15000,45000.0,0.0,6347.61,Cash,Delivered
+ORD1194,2025-12-11,Lakshmi Verma,Female,37,Chennai,Tamil Nadu,South,Electronics,Smartphone,5,25000,100000.0,0.2,8689.28,UPI,Delivered
+ORD1195,2025-04-19,Divya Raj,Female,36,Kolkata,West Bengal,East,Home & Kitchen,Air Fryer,5,6500,30875.0,0.05,3625.57,Cash,Delivered
+ORD1196,2025-08-27,Ajay Iyer,Female,31,Hyderabad,Telangana,South,Clothing,Jacket,5,3200,13600.0,0.15,-782.81,Debit Card,Returned
+ORD1197,2025-06-10,Naveen Kumar,Female,36,Jaipur,Rajasthan,North,Furniture,Desk,1,12000,0.0,0.1,0.0,Credit Card,Cancelled
+ORD1198,2025-04-11,Meena Singh,Female,59,Pune,Maharashtra,West,Stationery,Pen Set,4,180,576.0,0.2,-27.07,Cash,Returned
+ORD1199,2025-08-24,Priya Iyer,Male,22,Madurai,Tamil Nadu,South,Furniture,Sofa,2,22000,35200.0,0.2,7686.1,UPI,Delivered
+ORD1200,2025-01-04,Naveen Sharma,Female,21,Kochi,Kerala,South,Furniture,Office Chair,2,7500,15000.0,0.0,1307.74,Net Banking,Delivered
+ORD1201,2025-11-23,Lakshmi Das,Male,51,Lucknow,Uttar Pradesh,North,Home & Kitchen,Mixer Grinder,1,4200,3360.0,0.2,483.1,Debit Card,Delivered
+ORD1202,2025-10-02,Suresh Kumar,Male,57,Delhi,Delhi,North,Home & Kitchen,Air Fryer,1,6500,6500.0,0.0,904.45,Net Banking,Delivered
+ORD1203,2025-05-10,Rahul Reddy,Male,37,Bhubaneswar,Odisha,East,Home & Kitchen,Mixer Grinder,3,4200,10710.0,0.15,1371.2,UPI,Delivered
+ORD1204,2025-12-01,Kumar Raj,Male,23,Pune,Maharashtra,West,Home & Kitchen,Coffee Maker,5,5200,22100.0,0.15,1315.82,Cash,Delivered
+ORD1205,2025-08-11,Meena Verma,Female,35,Kochi,Kerala,South,Electronics,Headphones,1,2500,2375.0,0.05,-216.14,UPI,Returned
+ORD1206,2025-02-08,Karthik Patel,Male,43,Jaipur,Rajasthan,North,Electronics,Smartphone,3,25000,0.0,0.0,0.0,UPI,Cancelled
+ORD1207,2025-06-03,Priya Verma,Male,50,Bengaluru,Karnataka,South,Stationery,Desk Organizer,5,600,2700.0,0.1,-84.23,Debit Card,Returned
+ORD1208,2025-01-28,Manoj Nair,Female,19,Bengaluru,Karnataka,South,Electronics,Tablet,5,18000,72000.0,0.2,15287.47,Debit Card,Delivered
+ORD1209,2025-08-19,Vikram Singh,Female,33,Mumbai,Maharashtra,West,Stationery,Desk Organizer,4,600,2280.0,0.05,-114.93,UPI,Returned
+ORD1210,2025-02-12,Karthik Sharma,Female,46,Pune,Maharashtra,West,Furniture,Sofa,3,22000,59400.0,0.1,4045.95,Debit Card,Delivered
+ORD1211,2025-05-19,Manoj Sharma,Male,19,Coimbatore,Tamil Nadu,South,Furniture,Sofa,4,22000,70400.0,0.2,10159.13,UPI,Delivered
+ORD1212,2025-07-01,Ajay Raj,Male,53,Jaipur,Rajasthan,North,Stationery,Backpack,4,1200,4800.0,0.0,478.15,Credit Card,Delivered
+ORD1213,2025-10-20,Pooja Sharma,Male,22,Lucknow,Uttar Pradesh,North,Home & Kitchen,Air Fryer,2,6500,11700.0,0.1,1183.95,Credit Card,Delivered
+ORD1214,2025-08-11,Karthik Nair,Male,47,Hyderabad,Telangana,South,Home & Kitchen,Mixer Grinder,3,4200,11340.0,0.1,-793.83,UPI,Returned
+ORD1215,2025-03-11,Suresh Kumar,Male,37,Pune,Maharashtra,West,Clothing,Sneakers,3,3500,8925.0,0.15,-874.1,Debit Card,Returned
+ORD1216,2025-11-05,Divya Das,Male,38,Mumbai,Maharashtra,West,Furniture,Sofa,3,22000,59400.0,0.1,-3521.27,Cash,Returned
+ORD1217,2025-05-24,Sneha Iyer,Male,47,Coimbatore,Tamil Nadu,South,Stationery,Pen Set,5,180,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1218,2025-08-13,Suresh Raj,Female,42,Kochi,Kerala,South,Home & Kitchen,Coffee Maker,2,5200,9360.0,0.1,-302.62,UPI,Returned
+ORD1219,2025-08-18,Lakshmi Das,Male,24,Jaipur,Rajasthan,North,Home & Kitchen,Coffee Maker,5,5200,26000.0,0.0,4794.99,Credit Card,Delivered
+ORD1220,2025-12-03,Rahul Sharma,Female,24,Lucknow,Uttar Pradesh,North,Stationery,Notebook,5,250,1062.5,0.15,227.76,UPI,Delivered
+ORD1221,2025-02-20,Karthik Singh,Male,40,Delhi,Delhi,North,Stationery,Pen Set,4,180,648.0,0.1,-43.47,UPI,Returned
+ORD1222,2025-09-05,Manoj Reddy,Male,51,Pune,Maharashtra,West,Electronics,Laptop,2,55000,99000.0,0.1,10199.11,Cash,Delivered
+ORD1223,2025-06-28,Vikram Raj,Female,59,Ahmedabad,Gujarat,West,Home & Kitchen,Cookware Set,1,3800,3420.0,0.1,-99.89,UPI,Returned
+ORD1224,2025-12-13,Priya Singh,Male,43,Delhi,Delhi,North,Furniture,Desk,3,12000,28800.0,0.2,3527.5,Credit Card,Delivered
+ORD1225,2025-04-06,Naveen Nair,Male,31,Chennai,Tamil Nadu,South,Stationery,Pen Set,4,180,576.0,0.2,70.86,Debit Card,Delivered
+ORD1226,2025-12-27,Ravi Verma,Female,60,Coimbatore,Tamil Nadu,South,Stationery,Pen Set,3,180,486.0,0.1,40.58,Cash,Delivered
+ORD1227,2025-09-28,Meena Verma,Male,37,Pune,Maharashtra,West,Stationery,Desk Organizer,5,600,3000.0,0.0,327.44,Net Banking,Delivered
+ORD1228,2025-10-30,Ravi Sharma,Female,44,Mumbai,Maharashtra,West,Electronics,Smartphone,3,25000,75000.0,0.0,-2348.15,Net Banking,Returned
+ORD1229,2025-03-12,Harish Nair,Female,26,Pune,Maharashtra,West,Furniture,Sofa,5,22000,104500.0,0.05,15083.02,Credit Card,Delivered
+ORD1230,2025-06-11,Deepa Verma,Female,44,Chennai,Tamil Nadu,South,Clothing,T-Shirt,4,800,3040.0,0.05,252.84,Cash,Delivered
+ORD1231,2025-08-01,Deepa Das,Male,52,Madurai,Tamil Nadu,South,Electronics,Headphones,1,2500,2375.0,0.05,236.68,Debit Card,Delivered
+ORD1232,2025-03-28,Deepa Verma,Female,52,Kolkata,West Bengal,East,Home & Kitchen,Mixer Grinder,5,4200,0.0,0.0,0.0,UPI,Cancelled
+ORD1233,2025-08-14,Ajay Singh,Male,46,Pune,Maharashtra,West,Electronics,Smartphone,3,25000,75000.0,0.0,9484.09,UPI,Delivered
+ORD1234,2025-05-02,Divya Verma,Male,21,Kolkata,West Bengal,East,Clothing,Sneakers,2,3500,5600.0,0.2,412.55,Net Banking,Delivered
+ORD1235,2025-06-29,Ajay Reddy,Male,26,Jaipur,Rajasthan,North,Stationery,Pen Set,3,180,486.0,0.1,48.2,Cash,Delivered
+ORD1236,2025-01-31,Karthik Sharma,Male,54,Kolkata,West Bengal,East,Furniture,Desk,2,12000,21600.0,0.1,-1110.59,Debit Card,Returned
+ORD1237,2025-11-18,Naveen Nair,Female,47,Ahmedabad,Gujarat,West,Electronics,Laptop,4,55000,176000.0,0.2,-16703.61,Cash,Returned
+ORD1238,2025-06-17,Harish Kumar,Male,45,Kochi,Kerala,South,Electronics,Monitor,3,15000,45000.0,0.0,8336.94,Credit Card,Delivered
+ORD1239,2025-09-11,Karthik Iyer,Female,21,Kochi,Kerala,South,Clothing,Jacket,5,3200,12800.0,0.2,924.17,UPI,Delivered
+ORD1240,2025-02-20,Deepa Kumar,Male,26,Coimbatore,Tamil Nadu,South,Furniture,Sofa,4,22000,88000.0,0.0,19237.9,Debit Card,Delivered
+ORD1241,2025-03-23,Karthik Raj,Female,58,Lucknow,Uttar Pradesh,North,Clothing,Jacket,1,3200,2880.0,0.1,-95.74,Debit Card,Returned
+ORD1242,2025-12-25,Anitha Nair,Male,51,Lucknow,Uttar Pradesh,North,Electronics,Laptop,1,55000,52250.0,0.05,6847.74,Cash,Delivered
+ORD1243,2025-01-05,Arun Iyer,Male,24,Kochi,Kerala,South,Electronics,Monitor,2,15000,25500.0,0.15,1582.04,UPI,Delivered
+ORD1244,2025-06-10,Rahul Reddy,Male,46,Madurai,Tamil Nadu,South,Home & Kitchen,Air Fryer,2,6500,13000.0,0.0,1822.42,Debit Card,Delivered
+ORD1245,2025-04-20,Vijay Nair,Female,40,Jaipur,Rajasthan,North,Home & Kitchen,Air Fryer,1,6500,6500.0,0.0,479.71,Cash,Delivered
+ORD1246,2025-06-11,Vijay Singh,Female,19,Hyderabad,Telangana,South,Electronics,Smartphone,5,25000,0.0,0.2,0.0,Debit Card,Cancelled
+ORD1247,2025-04-16,Pooja Verma,Female,42,Delhi,Delhi,North,Furniture,Sofa,3,22000,66000.0,0.0,12094.25,UPI,Delivered
+ORD1248,2025-05-04,Vikram Verma,Female,41,Coimbatore,Tamil Nadu,South,Stationery,Notebook,3,250,0.0,0.1,0.0,Net Banking,Cancelled
+ORD1249,2025-12-16,Priya Das,Male,21,Bhubaneswar,Odisha,East,Electronics,Laptop,5,55000,275000.0,0.0,14394.84,Cash,Delivered
+ORD1250,2025-09-17,Suresh Patel,Male,35,Bhubaneswar,Odisha,East,Home & Kitchen,Coffee Maker,4,5200,0.0,0.0,0.0,UPI,Cancelled
+ORD1251,2025-06-08,Ravi Patel,Male,37,Bengaluru,Karnataka,South,Furniture,Bookshelf,4,6500,20800.0,0.2,-1549.28,Cash,Returned
+ORD1252,2025-05-03,Kumar Singh,Male,25,Coimbatore,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,4,4200,13440.0,0.2,2063.06,UPI,Delivered
+ORD1253,2025-12-29,Vijay Kumar,Female,26,Madurai,Tamil Nadu,South,Home & Kitchen,Cookware Set,5,3800,15200.0,0.2,-619.24,Debit Card,Returned
+ORD1254,2025-03-02,Arun Iyer,Male,49,Bhubaneswar,Odisha,East,Home & Kitchen,Cookware Set,5,3800,0.0,0.0,0.0,Cash,Cancelled
+ORD1255,2025-09-19,Rahul Kumar,Male,32,Ahmedabad,Gujarat,West,Stationery,Pen Set,3,180,513.0,0.05,47.9,Net Banking,Delivered
+ORD1256,2025-01-02,Kumar Kumar,Male,53,Bengaluru,Karnataka,South,Electronics,Monitor,3,15000,38250.0,0.15,7896.27,Cash,Delivered
+ORD1257,2025-04-25,Meena Singh,Male,29,Pune,Maharashtra,West,Clothing,Jacket,1,3200,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1258,2025-09-22,Kumar Nair,Male,41,Coimbatore,Tamil Nadu,South,Home & Kitchen,Cookware Set,3,3800,10260.0,0.1,663.67,Credit Card,Delivered
+ORD1259,2025-05-30,Harish Reddy,Male,52,Kolkata,West Bengal,East,Stationery,Pen Set,4,180,648.0,0.1,97.58,Credit Card,Delivered
+ORD1260,2025-03-19,Arun Nair,Female,24,Chennai,Tamil Nadu,South,Furniture,Bookshelf,1,6500,5850.0,0.1,-293.1,Credit Card,Returned
+ORD1261,2025-09-29,Anitha Nair,Female,41,Ahmedabad,Gujarat,West,Electronics,Smartphone,3,25000,75000.0,0.0,4309.73,Cash,Delivered
+ORD1262,2025-02-13,Harish Raj,Male,33,Delhi,Delhi,North,Furniture,Sofa,1,22000,17600.0,0.2,2578.92,Debit Card,Delivered
+ORD1263,2025-05-14,Meena Nair,Male,55,Kolkata,West Bengal,East,Clothing,Jacket,4,3200,11520.0,0.1,1033.5,UPI,Delivered
+ORD1264,2025-03-21,Manoj Sharma,Female,37,Ahmedabad,Gujarat,West,Home & Kitchen,Cookware Set,4,3800,15200.0,0.0,2144.83,Cash,Delivered
+ORD1265,2025-05-16,Manoj Raj,Female,43,Madurai,Tamil Nadu,South,Clothing,T-Shirt,2,800,1440.0,0.1,-57.39,Net Banking,Returned
+ORD1266,2025-01-26,Suresh Reddy,Male,24,Kochi,Kerala,South,Furniture,Office Chair,4,7500,0.0,0.15,0.0,Cash,Cancelled
+ORD1267,2025-02-22,Vijay Raj,Male,55,Chennai,Tamil Nadu,South,Electronics,Smartphone,2,25000,47500.0,0.05,9026.16,Net Banking,Delivered
+ORD1268,2025-05-13,Ravi Kumar,Male,20,Coimbatore,Tamil Nadu,South,Furniture,Sofa,2,22000,44000.0,0.0,8969.98,Cash,Delivered
+ORD1269,2025-01-26,Priya Verma,Female,31,Pune,Maharashtra,West,Home & Kitchen,Coffee Maker,1,5200,4420.0,0.15,734.37,Credit Card,Delivered
+ORD1270,2025-05-21,Karthik Das,Female,44,Madurai,Tamil Nadu,South,Electronics,Headphones,5,2500,10000.0,0.2,917.83,Net Banking,Delivered
+ORD1271,2025-09-03,Kumar Raj,Male,58,Hyderabad,Telangana,South,Home & Kitchen,Air Fryer,4,6500,0.0,0.05,0.0,Net Banking,Cancelled
+ORD1272,2025-01-10,Sneha Iyer,Female,29,Ahmedabad,Gujarat,West,Stationery,Desk Organizer,3,600,1440.0,0.2,194.99,UPI,Delivered
+ORD1273,2025-06-13,Lakshmi Singh,Male,28,Chennai,Tamil Nadu,South,Clothing,T-Shirt,4,800,0.0,0.2,0.0,UPI,Cancelled
+ORD1274,2025-05-07,Anitha Reddy,Male,33,Delhi,Delhi,North,Electronics,Smartphone,5,25000,106250.0,0.15,11721.16,Net Banking,Delivered
+ORD1275,2025-06-12,Rahul Verma,Female,29,Chennai,Tamil Nadu,South,Clothing,Jeans,5,1800,8550.0,0.05,1643.64,Cash,Delivered
+ORD1276,2025-01-20,Ravi Kumar,Male,26,Bengaluru,Karnataka,South,Stationery,Pen Set,1,180,144.0,0.2,18.9,Debit Card,Delivered
+ORD1277,2025-04-01,Meena Kumar,Female,60,Chennai,Tamil Nadu,South,Furniture,Desk,1,12000,9600.0,0.2,1884.61,Cash,Delivered
+ORD1278,2025-10-28,Manoj Iyer,Female,29,Hyderabad,Telangana,South,Clothing,Jeans,2,1800,3060.0,0.15,564.92,Net Banking,Delivered
+ORD1279,2025-12-22,Lakshmi Iyer,Male,29,Bengaluru,Karnataka,South,Stationery,Pen Set,4,180,648.0,0.1,113.26,UPI,Delivered
+ORD1280,2025-12-26,Harish Nair,Male,58,Kochi,Kerala,South,Stationery,Notebook,2,250,0.0,0.2,0.0,Net Banking,Cancelled
+ORD1281,2025-02-23,Vikram Sharma,Female,46,Mumbai,Maharashtra,West,Electronics,Smartphone,3,25000,67500.0,0.1,5301.51,UPI,Delivered
+ORD1282,2025-05-16,Divya Singh,Female,46,Kolkata,West Bengal,East,Electronics,Tablet,3,18000,54000.0,0.0,9313.4,Cash,Delivered
+ORD1283,2025-03-27,Naveen Das,Male,28,Pune,Maharashtra,West,Clothing,Sneakers,1,3500,0.0,0.15,0.0,Cash,Cancelled
+ORD1284,2025-02-07,Kumar Reddy,Male,22,Chennai,Tamil Nadu,South,Clothing,Jacket,1,3200,3200.0,0.0,345.94,Net Banking,Delivered
+ORD1285,2025-02-17,Meena Verma,Male,21,Jaipur,Rajasthan,North,Home & Kitchen,Mixer Grinder,4,4200,15960.0,0.05,2445.77,UPI,Delivered
+ORD1286,2025-06-19,Divya Singh,Female,54,Pune,Maharashtra,West,Stationery,Backpack,3,1200,3240.0,0.1,292.84,Net Banking,Delivered
+ORD1287,2025-09-09,Vijay Kumar,Male,24,Mumbai,Maharashtra,West,Electronics,Monitor,1,15000,13500.0,0.1,-918.23,UPI,Returned
+ORD1288,2025-04-16,Priya Reddy,Female,29,Coimbatore,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,3,4200,10710.0,0.15,-441.26,Debit Card,Returned
+ORD1289,2025-07-15,Rahul Sharma,Male,27,Ahmedabad,Gujarat,West,Electronics,Tablet,4,18000,61200.0,0.15,5800.42,UPI,Delivered
+ORD1290,2025-02-13,Rahul Patel,Female,52,Pune,Maharashtra,West,Stationery,Pen Set,5,180,0.0,0.0,0.0,Cash,Cancelled
+ORD1291,2025-10-21,Anitha Das,Male,25,Hyderabad,Telangana,South,Electronics,Monitor,1,15000,0.0,0.2,0.0,Cash,Cancelled
+ORD1292,2025-03-30,Priya Singh,Male,56,Bhubaneswar,Odisha,East,Furniture,Desk,1,12000,10200.0,0.15,-559.28,Debit Card,Returned
+ORD1293,2025-06-13,Ravi Raj,Female,18,Pune,Maharashtra,West,Stationery,Desk Organizer,5,600,0.0,0.1,0.0,Net Banking,Cancelled
+ORD1294,2025-10-28,Pooja Nair,Male,54,Coimbatore,Tamil Nadu,South,Home & Kitchen,Air Fryer,2,6500,10400.0,0.2,1559.47,UPI,Delivered
+ORD1295,2025-05-27,Ajay Iyer,Male,35,Pune,Maharashtra,West,Clothing,Sneakers,4,3500,11200.0,0.2,1719.46,Cash,Delivered
+ORD1296,2025-03-15,Lakshmi Verma,Female,35,Lucknow,Uttar Pradesh,North,Home & Kitchen,Mixer Grinder,4,4200,15120.0,0.1,2530.9,Debit Card,Delivered
+ORD1297,2025-01-11,Meena Reddy,Female,35,Hyderabad,Telangana,South,Clothing,Sneakers,1,3500,3325.0,0.05,-184.37,Cash,Returned
+ORD1298,2025-11-06,Ravi Singh,Male,22,Ahmedabad,Gujarat,West,Furniture,Sofa,4,22000,70400.0,0.2,13898.52,Debit Card,Delivered
+ORD1299,2025-12-30,Pooja Nair,Male,33,Madurai,Tamil Nadu,South,Stationery,Notebook,2,250,475.0,0.05,94.42,UPI,Delivered
+ORD1300,2025-08-22,Kumar Iyer,Male,33,Kolkata,West Bengal,East,Furniture,Bookshelf,3,6500,16575.0,0.15,-1555.5,Debit Card,Returned
+ORD1301,2025-09-08,Lakshmi Das,Male,36,Madurai,Tamil Nadu,South,Home & Kitchen,Cookware Set,3,3800,10830.0,0.05,2083.7,UPI,Delivered
+ORD1302,2025-07-17,Kumar Sharma,Female,50,Kochi,Kerala,South,Stationery,Pen Set,2,180,342.0,0.05,56.5,UPI,Delivered
+ORD1303,2025-12-16,Arun Das,Female,45,Madurai,Tamil Nadu,South,Furniture,Office Chair,2,7500,13500.0,0.1,2071.15,Cash,Delivered
+ORD1304,2025-06-28,Deepa Reddy,Male,50,Bengaluru,Karnataka,South,Home & Kitchen,Cookware Set,5,3800,15200.0,0.2,1786.24,Debit Card,Delivered
+ORD1305,2025-10-15,Lakshmi Verma,Female,35,Hyderabad,Telangana,South,Clothing,T-Shirt,4,800,3200.0,0.0,342.94,Debit Card,Delivered
+ORD1306,2025-12-02,Suresh Singh,Male,19,Madurai,Tamil Nadu,South,Stationery,Pen Set,1,180,144.0,0.2,17.09,Cash,Delivered
+ORD1307,2025-06-01,Karthik Nair,Male,52,Pune,Maharashtra,West,Home & Kitchen,Mixer Grinder,5,4200,16800.0,0.2,3170.54,Cash,Delivered
+ORD1308,2025-12-10,Rahul Patel,Male,39,Hyderabad,Telangana,South,Furniture,Desk,3,12000,36000.0,0.0,-1464.92,UPI,Returned
+ORD1309,2025-04-24,Rahul Singh,Female,25,Kolkata,West Bengal,East,Clothing,Sneakers,3,3500,9450.0,0.1,891.09,Cash,Delivered
+ORD1310,2025-01-28,Harish Verma,Female,44,Jaipur,Rajasthan,North,Electronics,Monitor,2,15000,24000.0,0.2,-1212.8,UPI,Returned
+ORD1311,2025-03-19,Vijay Singh,Male,49,Mumbai,Maharashtra,West,Home & Kitchen,Coffee Maker,2,5200,9360.0,0.1,1840.24,Debit Card,Delivered
+ORD1312,2025-11-20,Priya Iyer,Male,49,Lucknow,Uttar Pradesh,North,Electronics,Laptop,4,55000,198000.0,0.1,16947.81,UPI,Delivered
+ORD1313,2025-03-08,Lakshmi Nair,Male,41,Lucknow,Uttar Pradesh,North,Home & Kitchen,Coffee Maker,4,5200,17680.0,0.15,2036.1,UPI,Delivered
+ORD1314,2025-06-14,Pooja Singh,Female,50,Chennai,Tamil Nadu,South,Electronics,Smartphone,2,25000,45000.0,0.1,4637.51,Net Banking,Delivered
+ORD1315,2025-06-06,Priya Raj,Female,45,Kochi,Kerala,South,Electronics,Tablet,3,18000,0.0,0.15,0.0,Credit Card,Cancelled
+ORD1316,2025-06-25,Vikram Iyer,Male,19,Bhubaneswar,Odisha,East,Furniture,Desk,4,12000,48000.0,0.0,-4741.94,Net Banking,Returned
+ORD1317,2025-09-16,Priya Raj,Male,60,Mumbai,Maharashtra,West,Electronics,Monitor,3,15000,0.0,0.2,0.0,UPI,Cancelled
+ORD1318,2025-12-01,Arun Kumar,Female,27,Kolkata,West Bengal,East,Electronics,Monitor,4,15000,51000.0,0.15,3621.57,Credit Card,Delivered
+ORD1319,2025-12-22,Arun Reddy,Female,24,Pune,Maharashtra,West,Electronics,Headphones,3,2500,6000.0,0.2,917.75,Net Banking,Delivered
+ORD1320,2025-11-13,Manoj Reddy,Male,40,Coimbatore,Tamil Nadu,South,Electronics,Monitor,2,15000,24000.0,0.2,2014.98,Cash,Delivered
+ORD1321,2025-06-01,Priya Kumar,Male,25,Delhi,Delhi,North,Home & Kitchen,Air Fryer,4,6500,23400.0,0.1,2102.86,Net Banking,Delivered
+ORD1322,2025-12-09,Vikram Sharma,Female,34,Coimbatore,Tamil Nadu,South,Stationery,Notebook,1,250,225.0,0.1,35.9,Cash,Delivered
+ORD1323,2025-01-26,Manoj Sharma,Male,20,Kochi,Kerala,South,Electronics,Tablet,3,18000,48600.0,0.1,5949.57,UPI,Delivered
+ORD1324,2025-03-12,Priya Iyer,Male,43,Mumbai,Maharashtra,West,Home & Kitchen,Cookware Set,1,3800,3420.0,0.1,644.82,Cash,Delivered
+ORD1325,2025-08-22,Karthik Nair,Male,24,Kolkata,West Bengal,East,Home & Kitchen,Coffee Maker,2,5200,10400.0,0.0,-256.79,Cash,Returned
+ORD1326,2025-10-30,Vikram Verma,Male,26,Lucknow,Uttar Pradesh,North,Home & Kitchen,Air Fryer,5,6500,0.0,0.15,0.0,Cash,Cancelled
+ORD1327,2025-09-07,Manoj Nair,Male,60,Ahmedabad,Gujarat,West,Electronics,Laptop,3,55000,148500.0,0.1,-9204.84,Debit Card,Returned
+ORD1328,2025-09-23,Pooja Verma,Male,18,Coimbatore,Tamil Nadu,South,Home & Kitchen,Air Fryer,4,6500,23400.0,0.1,-1188.49,Credit Card,Returned
+ORD1329,2025-09-16,Vikram Das,Male,50,Kochi,Kerala,South,Furniture,Office Chair,4,7500,27000.0,0.1,2455.69,Credit Card,Delivered
+ORD1330,2025-10-09,Sneha Nair,Male,49,Kochi,Kerala,South,Furniture,Office Chair,4,7500,25500.0,0.15,4748.47,Cash,Delivered
+ORD1331,2025-06-11,Manoj Das,Male,23,Kolkata,West Bengal,East,Electronics,Laptop,4,55000,0.0,0.15,0.0,Net Banking,Cancelled
+ORD1332,2025-11-13,Suresh Patel,Female,39,Delhi,Delhi,North,Furniture,Sofa,3,22000,59400.0,0.1,11303.99,Net Banking,Delivered
+ORD1333,2025-11-14,Lakshmi Das,Male,39,Kolkata,West Bengal,East,Clothing,Sneakers,1,3500,3500.0,0.0,626.8,Debit Card,Delivered
+ORD1334,2025-11-21,Suresh Patel,Female,24,Delhi,Delhi,North,Clothing,T-Shirt,1,800,760.0,0.05,-60.34,Debit Card,Returned
+ORD1335,2025-11-09,Divya Singh,Female,20,Coimbatore,Tamil Nadu,South,Home & Kitchen,Air Fryer,4,6500,24700.0,0.05,4244.79,Net Banking,Delivered
+ORD1336,2025-03-05,Deepa Das,Female,55,Lucknow,Uttar Pradesh,North,Stationery,Pen Set,4,180,720.0,0.0,100.92,Cash,Delivered
+ORD1337,2025-09-18,Priya Verma,Female,44,Madurai,Tamil Nadu,South,Furniture,Office Chair,4,7500,24000.0,0.2,3673.14,Net Banking,Delivered
+ORD1338,2025-12-21,Anitha Reddy,Female,53,Pune,Maharashtra,West,Clothing,Jacket,4,3200,0.0,0.05,0.0,Debit Card,Cancelled
+ORD1339,2025-12-31,Ajay Singh,Male,50,Bengaluru,Karnataka,South,Furniture,Bookshelf,3,6500,18525.0,0.05,-1815.72,Net Banking,Returned
+ORD1340,2025-12-22,Meena Raj,Female,45,Bhubaneswar,Odisha,East,Clothing,Sneakers,5,3500,14000.0,0.2,-747.58,UPI,Returned
+ORD1341,2025-09-25,Manoj Kumar,Female,34,Pune,Maharashtra,West,Furniture,Office Chair,1,7500,7125.0,0.05,679.63,Credit Card,Delivered
+ORD1342,2025-02-01,Suresh Singh,Male,59,Bhubaneswar,Odisha,East,Stationery,Notebook,3,250,637.5,0.15,-50.46,Net Banking,Returned
+ORD1343,2025-07-19,Anitha Patel,Male,18,Bhubaneswar,Odisha,East,Clothing,T-Shirt,4,800,2720.0,0.15,-122.43,Debit Card,Returned
+ORD1344,2025-04-14,Lakshmi Das,Male,36,Kochi,Kerala,South,Furniture,Bookshelf,5,6500,26000.0,0.2,4563.95,Cash,Delivered
+ORD1345,2025-04-01,Ravi Sharma,Female,26,Madurai,Tamil Nadu,South,Stationery,Notebook,4,250,0.0,0.0,0.0,Credit Card,Cancelled
+ORD1346,2025-10-27,Karthik Kumar,Male,58,Mumbai,Maharashtra,West,Home & Kitchen,Air Fryer,1,6500,0.0,0.05,0.0,Net Banking,Cancelled
+ORD1347,2025-12-05,Suresh Das,Male,50,Bhubaneswar,Odisha,East,Stationery,Backpack,1,1200,1080.0,0.1,150.46,Credit Card,Delivered
+ORD1348,2025-08-01,Ajay Patel,Female,36,Pune,Maharashtra,West,Electronics,Tablet,2,18000,34200.0,0.05,5566.63,Credit Card,Delivered
+ORD1349,2025-11-13,Pooja Das,Male,20,Delhi,Delhi,North,Electronics,Laptop,3,55000,140250.0,0.15,-9690.73,Debit Card,Returned
+ORD1350,2025-07-15,Manoj Nair,Female,49,Hyderabad,Telangana,South,Stationery,Backpack,1,1200,960.0,0.2,182.17,UPI,Delivered
+ORD1351,2025-06-01,Divya Iyer,Male,45,Delhi,Delhi,North,Electronics,Laptop,2,55000,88000.0,0.2,-2220.92,UPI,Returned
+ORD1352,2025-04-16,Ajay Nair,Male,22,Lucknow,Uttar Pradesh,North,Electronics,Smartphone,1,25000,21250.0,0.15,3652.19,UPI,Delivered
+ORD1353,2025-04-02,Karthik Patel,Female,19,Coimbatore,Tamil Nadu,South,Stationery,Pen Set,3,180,459.0,0.15,-24.03,Cash,Returned
+ORD1354,2025-12-11,Manoj Patel,Female,50,Chennai,Tamil Nadu,South,Stationery,Notebook,5,250,1250.0,0.0,211.44,UPI,Delivered
+ORD1355,2025-05-29,Suresh Verma,Female,28,Coimbatore,Tamil Nadu,South,Clothing,Sneakers,4,3500,11900.0,0.15,2258.15,Net Banking,Delivered
+ORD1356,2025-04-23,Vijay Nair,Male,53,Bhubaneswar,Odisha,East,Stationery,Backpack,2,1200,2160.0,0.1,-155.16,Net Banking,Returned
+ORD1357,2025-03-14,Manoj Kumar,Male,40,Chennai,Tamil Nadu,South,Stationery,Desk Organizer,5,600,2400.0,0.2,506.37,Credit Card,Delivered
+ORD1358,2025-07-31,Pooja Sharma,Male,53,Madurai,Tamil Nadu,South,Furniture,Desk,5,12000,54000.0,0.1,4483.91,Cash,Delivered
+ORD1359,2025-11-27,Ajay Raj,Female,40,Hyderabad,Telangana,South,Electronics,Tablet,1,18000,17100.0,0.05,2964.29,Credit Card,Delivered
+ORD1360,2025-12-10,Anitha Raj,Female,55,Hyderabad,Telangana,South,Stationery,Notebook,2,250,450.0,0.1,59.67,Credit Card,Delivered
+ORD1361,2025-10-17,Harish Iyer,Female,35,Bhubaneswar,Odisha,East,Clothing,Sneakers,2,3500,7000.0,0.0,722.73,Debit Card,Delivered
+ORD1362,2025-03-10,Meena Das,Male,35,Ahmedabad,Gujarat,West,Home & Kitchen,Cookware Set,3,3800,9690.0,0.15,1393.27,Credit Card,Delivered
+ORD1363,2025-10-03,Divya Reddy,Female,55,Kolkata,West Bengal,East,Electronics,Laptop,1,55000,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1364,2025-01-19,Ajay Reddy,Female,26,Delhi,Delhi,North,Stationery,Desk Organizer,2,600,0.0,0.1,0.0,Cash,Cancelled
+ORD1365,2025-09-14,Pooja Raj,Male,46,Pune,Maharashtra,West,Clothing,T-Shirt,2,800,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1366,2025-04-02,Harish Verma,Male,22,Lucknow,Uttar Pradesh,North,Furniture,Sofa,3,22000,66000.0,0.0,5755.15,Debit Card,Delivered
+ORD1367,2025-07-09,Anitha Kumar,Male,59,Lucknow,Uttar Pradesh,North,Furniture,Bookshelf,4,6500,22100.0,0.15,4553.56,Debit Card,Delivered
+ORD1368,2025-02-22,Pooja Reddy,Male,51,Kochi,Kerala,South,Clothing,Jeans,4,1800,6120.0,0.15,-562.17,Debit Card,Returned
+ORD1369,2025-07-12,Anitha Patel,Male,46,Pune,Maharashtra,West,Clothing,Jacket,4,3200,10880.0,0.15,2184.91,Credit Card,Delivered
+ORD1370,2025-04-28,Ravi Patel,Male,60,Lucknow,Uttar Pradesh,North,Clothing,Jeans,2,1800,0.0,0.05,0.0,Credit Card,Cancelled
+ORD1371,2025-08-01,Meena Raj,Male,33,Ahmedabad,Gujarat,West,Home & Kitchen,Coffee Maker,2,5200,8320.0,0.2,644.07,UPI,Delivered
+ORD1372,2025-03-07,Harish Verma,Male,51,Madurai,Tamil Nadu,South,Furniture,Office Chair,5,7500,35625.0,0.05,2119.87,Cash,Delivered
+ORD1373,2025-11-03,Harish Kumar,Female,28,Kolkata,West Bengal,East,Clothing,T-Shirt,2,800,1360.0,0.15,208.23,Credit Card,Delivered
+ORD1374,2025-07-30,Lakshmi Sharma,Female,56,Bhubaneswar,Odisha,East,Stationery,Pen Set,5,180,720.0,0.2,-53.89,Net Banking,Returned
+ORD1375,2025-02-05,Anitha Nair,Female,27,Pune,Maharashtra,West,Furniture,Office Chair,1,7500,0.0,0.05,0.0,Net Banking,Cancelled
+ORD1376,2025-02-19,Priya Das,Female,60,Jaipur,Rajasthan,North,Stationery,Notebook,5,250,1000.0,0.2,177.91,Credit Card,Delivered
+ORD1377,2025-11-05,Ajay Kumar,Male,48,Bhubaneswar,Odisha,East,Home & Kitchen,Coffee Maker,3,5200,15600.0,0.0,2630.15,Cash,Delivered
+ORD1378,2025-06-29,Harish Verma,Female,56,Coimbatore,Tamil Nadu,South,Home & Kitchen,Air Fryer,3,6500,16575.0,0.15,2986.75,Net Banking,Delivered
+ORD1379,2025-07-29,Karthik Singh,Male,38,Chennai,Tamil Nadu,South,Electronics,Headphones,5,2500,12500.0,0.0,1729.49,Cash,Delivered
+ORD1380,2025-07-05,Manoj Sharma,Female,43,Pune,Maharashtra,West,Stationery,Backpack,3,1200,2880.0,0.2,351.38,Credit Card,Delivered
+ORD1381,2025-07-31,Ajay Patel,Female,43,Ahmedabad,Gujarat,West,Furniture,Bookshelf,5,6500,26000.0,0.2,3438.22,Credit Card,Delivered
+ORD1382,2025-12-04,Manoj Singh,Male,28,Ahmedabad,Gujarat,West,Furniture,Office Chair,2,7500,12000.0,0.2,1417.14,Cash,Delivered
+ORD1383,2025-11-22,Arun Raj,Male,41,Kochi,Kerala,South,Furniture,Sofa,5,22000,93500.0,0.15,6076.0,UPI,Delivered
+ORD1384,2025-11-08,Kumar Nair,Female,46,Pune,Maharashtra,West,Stationery,Backpack,5,1200,6000.0,0.0,1264.63,UPI,Delivered
+ORD1385,2025-04-14,Pooja Reddy,Male,20,Bengaluru,Karnataka,South,Electronics,Headphones,5,2500,0.0,0.2,0.0,Debit Card,Cancelled
+ORD1386,2025-05-03,Arun Sharma,Male,22,Coimbatore,Tamil Nadu,South,Clothing,Sneakers,3,3500,8925.0,0.15,1061.42,UPI,Delivered
+ORD1387,2025-10-09,Suresh Patel,Female,43,Jaipur,Rajasthan,North,Clothing,Jacket,3,3200,9120.0,0.05,1396.11,Net Banking,Delivered
+ORD1388,2025-01-03,Karthik Sharma,Male,50,Pune,Maharashtra,West,Stationery,Notebook,5,250,1250.0,0.0,169.42,Debit Card,Delivered
+ORD1389,2025-10-03,Harish Reddy,Female,47,Kolkata,West Bengal,East,Home & Kitchen,Coffee Maker,5,5200,22100.0,0.15,3997.77,Net Banking,Delivered
+ORD1390,2025-01-15,Vikram Raj,Female,51,Hyderabad,Telangana,South,Electronics,Monitor,2,15000,28500.0,0.05,5301.78,Net Banking,Delivered
+ORD1391,2025-01-05,Karthik Singh,Female,38,Hyderabad,Telangana,South,Electronics,Monitor,3,15000,45000.0,0.0,6492.32,Debit Card,Delivered
+ORD1392,2025-04-22,Harish Reddy,Male,32,Madurai,Tamil Nadu,South,Furniture,Sofa,2,22000,41800.0,0.05,7315.96,Credit Card,Delivered
+ORD1393,2025-05-08,Lakshmi Iyer,Male,48,Madurai,Tamil Nadu,South,Electronics,Laptop,1,55000,0.0,0.15,0.0,Debit Card,Cancelled
+ORD1394,2025-11-14,Meena Das,Male,21,Jaipur,Rajasthan,North,Clothing,Sneakers,2,3500,5600.0,0.2,546.81,Net Banking,Delivered
+ORD1395,2025-08-05,Vikram Patel,Female,38,Chennai,Tamil Nadu,South,Stationery,Backpack,4,1200,4560.0,0.05,582.42,UPI,Delivered
+ORD1396,2025-01-07,Divya Nair,Female,33,Jaipur,Rajasthan,North,Electronics,Tablet,3,18000,43200.0,0.2,8489.37,Debit Card,Delivered
+ORD1397,2025-08-30,Lakshmi Iyer,Female,43,Mumbai,Maharashtra,West,Furniture,Sofa,4,22000,83600.0,0.05,10136.15,Debit Card,Delivered
+ORD1398,2025-08-19,Priya Verma,Female,42,Madurai,Tamil Nadu,South,Stationery,Pen Set,1,180,0.0,0.1,0.0,Credit Card,Cancelled
+ORD1399,2025-03-16,Vijay Das,Female,49,Bhubaneswar,Odisha,East,Electronics,Smartphone,4,25000,85000.0,0.15,-5215.65,Debit Card,Returned
+ORD1400,2025-05-09,Ajay Verma,Female,58,Chennai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,2,4200,8400.0,0.0,727.69,UPI,Delivered
+ORD1401,2025-08-19,Meena Reddy,Male,54,Mumbai,Maharashtra,West,Clothing,Jacket,3,3200,9600.0,0.0,1151.99,Net Banking,Delivered
+ORD1402,2025-11-29,Ajay Sharma,Male,42,Bhubaneswar,Odisha,East,Clothing,Jacket,3,3200,7680.0,0.2,-428.19,Net Banking,Returned
+ORD1403,2025-05-27,Deepa Sharma,Male,28,Kochi,Kerala,South,Furniture,Bookshelf,4,6500,20800.0,0.2,3061.31,Debit Card,Delivered
+ORD1404,2025-04-27,Meena Iyer,Female,55,Lucknow,Uttar Pradesh,North,Clothing,Jacket,5,3200,13600.0,0.15,1307.13,Net Banking,Delivered
+ORD1405,2025-08-19,Naveen Sharma,Male,28,Madurai,Tamil Nadu,South,Electronics,Smartphone,2,25000,45000.0,0.1,-3599.06,Cash,Returned
+ORD1406,2025-02-22,Manoj Raj,Male,34,Ahmedabad,Gujarat,West,Stationery,Notebook,1,250,212.5,0.15,29.55,Net Banking,Delivered
+ORD1407,2025-03-21,Ravi Nair,Male,19,Hyderabad,Telangana,South,Furniture,Desk,3,12000,30600.0,0.15,4788.95,UPI,Delivered
+ORD1408,2025-12-06,Rahul Iyer,Male,55,Kochi,Kerala,South,Home & Kitchen,Coffee Maker,5,5200,23400.0,0.1,3352.11,Net Banking,Delivered
+ORD1409,2025-08-22,Harish Nair,Female,37,Delhi,Delhi,North,Stationery,Backpack,3,1200,3060.0,0.15,433.74,Debit Card,Delivered
+ORD1410,2025-07-31,Karthik Sharma,Male,49,Hyderabad,Telangana,South,Electronics,Laptop,5,55000,261250.0,0.05,28335.29,Cash,Delivered
+ORD1411,2025-06-03,Arun Nair,Female,43,Bhubaneswar,Odisha,East,Clothing,Jeans,1,1800,1440.0,0.2,163.47,Credit Card,Delivered
+ORD1412,2025-03-25,Sneha Nair,Female,36,Bengaluru,Karnataka,South,Clothing,T-Shirt,4,800,0.0,0.05,0.0,Net Banking,Cancelled
+ORD1413,2025-05-18,Naveen Singh,Female,35,Kochi,Kerala,South,Electronics,Smartphone,2,25000,45000.0,0.1,3094.23,Net Banking,Delivered
+ORD1414,2025-09-09,Divya Iyer,Female,35,Chennai,Tamil Nadu,South,Furniture,Office Chair,5,7500,37500.0,0.0,3060.35,Credit Card,Delivered
+ORD1415,2025-08-13,Arun Singh,Female,41,Coimbatore,Tamil Nadu,South,Furniture,Office Chair,4,7500,28500.0,0.05,3081.57,Cash,Delivered
+ORD1416,2025-12-23,Kumar Iyer,Male,30,Coimbatore,Tamil Nadu,South,Furniture,Office Chair,3,7500,19125.0,0.15,1188.34,Debit Card,Delivered
+ORD1417,2025-07-15,Arun Raj,Male,47,Bhubaneswar,Odisha,East,Furniture,Sofa,4,22000,83600.0,0.05,14663.04,UPI,Delivered
+ORD1418,2025-09-24,Divya Das,Male,34,Pune,Maharashtra,West,Clothing,Jacket,2,3200,0.0,0.0,0.0,Cash,Cancelled
+ORD1419,2025-11-23,Suresh Singh,Male,28,Mumbai,Maharashtra,West,Electronics,Smartphone,1,25000,23750.0,0.05,3742.87,Debit Card,Delivered
+ORD1420,2025-10-27,Manoj Nair,Male,41,Bhubaneswar,Odisha,East,Furniture,Office Chair,1,7500,6000.0,0.2,1099.14,UPI,Delivered
+ORD1421,2025-05-08,Priya Das,Male,26,Coimbatore,Tamil Nadu,South,Stationery,Backpack,1,1200,1200.0,0.0,132.53,Cash,Delivered
+ORD1422,2025-04-30,Meena Patel,Male,34,Bhubaneswar,Odisha,East,Clothing,Sneakers,2,3500,7000.0,0.0,1170.21,UPI,Delivered
+ORD1423,2025-09-06,Deepa Patel,Female,47,Hyderabad,Telangana,South,Stationery,Desk Organizer,2,600,960.0,0.2,78.46,Debit Card,Delivered
+ORD1424,2025-11-03,Ajay Sharma,Female,47,Coimbatore,Tamil Nadu,South,Stationery,Pen Set,4,180,0.0,0.1,0.0,UPI,Cancelled
+ORD1425,2025-11-23,Pooja Nair,Female,22,Kolkata,West Bengal,East,Furniture,Office Chair,5,7500,33750.0,0.1,6139.9,Net Banking,Delivered
+ORD1426,2025-07-18,Divya Patel,Male,51,Lucknow,Uttar Pradesh,North,Home & Kitchen,Air Fryer,5,6500,29250.0,0.1,-1338.54,UPI,Returned
+ORD1427,2025-01-23,Vijay Sharma,Female,60,Kochi,Kerala,South,Electronics,Smartphone,1,25000,21250.0,0.15,1754.72,Cash,Delivered
+ORD1428,2025-09-27,Lakshmi Verma,Male,59,Hyderabad,Telangana,South,Electronics,Tablet,2,18000,28800.0,0.2,4954.57,Cash,Delivered
+ORD1429,2025-02-10,Deepa Kumar,Male,22,Mumbai,Maharashtra,West,Stationery,Desk Organizer,3,600,1800.0,0.0,342.03,Debit Card,Delivered
+ORD1430,2025-02-09,Divya Patel,Male,54,Coimbatore,Tamil Nadu,South,Electronics,Smartphone,5,25000,0.0,0.15,0.0,Credit Card,Cancelled
+ORD1431,2025-10-13,Ajay Nair,Male,28,Kolkata,West Bengal,East,Electronics,Headphones,3,2500,6375.0,0.15,1080.14,Credit Card,Delivered
+ORD1432,2025-10-09,Sneha Patel,Female,44,Mumbai,Maharashtra,West,Furniture,Sofa,3,22000,59400.0,0.1,8524.72,Cash,Delivered
+ORD1433,2025-06-15,Lakshmi Singh,Female,46,Jaipur,Rajasthan,North,Stationery,Pen Set,4,180,576.0,0.2,119.49,Cash,Delivered
+ORD1434,2025-07-23,Arun Kumar,Male,37,Hyderabad,Telangana,South,Stationery,Notebook,5,250,1187.5,0.05,259.92,Credit Card,Delivered
+ORD1435,2025-04-20,Meena Kumar,Male,34,Bhubaneswar,Odisha,East,Clothing,Jeans,1,1800,1800.0,0.0,230.87,Debit Card,Delivered
+ORD1436,2025-10-26,Anitha Singh,Male,38,Hyderabad,Telangana,South,Clothing,T-Shirt,5,800,3400.0,0.15,498.92,Cash,Delivered
+ORD1437,2025-03-30,Vikram Verma,Female,23,Kochi,Kerala,South,Electronics,Headphones,3,2500,0.0,0.0,0.0,UPI,Cancelled
+ORD1438,2025-06-21,Rahul Nair,Female,51,Pune,Maharashtra,West,Electronics,Smartphone,5,25000,125000.0,0.0,-6324.87,UPI,Returned
+ORD1439,2025-06-13,Ajay Verma,Female,56,Madurai,Tamil Nadu,South,Clothing,Jeans,2,1800,3600.0,0.0,592.26,Net Banking,Delivered
+ORD1440,2025-09-16,Ravi Singh,Male,53,Pune,Maharashtra,West,Clothing,Sneakers,2,3500,6650.0,0.05,712.54,Cash,Delivered
+ORD1441,2025-05-15,Ravi Nair,Female,59,Delhi,Delhi,North,Home & Kitchen,Air Fryer,2,6500,11050.0,0.15,1603.14,Net Banking,Delivered
+ORD1442,2025-04-11,Ajay Verma,Female,54,Kolkata,West Bengal,East,Stationery,Pen Set,2,180,360.0,0.0,34.29,UPI,Delivered
+ORD1443,2025-02-27,Naveen Nair,Female,28,Mumbai,Maharashtra,West,Clothing,Jeans,3,1800,4860.0,0.1,733.66,Debit Card,Delivered
+ORD1444,2025-11-12,Deepa Verma,Male,25,Madurai,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,2,4200,7980.0,0.05,1328.76,UPI,Delivered
+ORD1445,2025-05-05,Lakshmi Sharma,Male,39,Kochi,Kerala,South,Clothing,T-Shirt,3,800,2400.0,0.0,244.49,Credit Card,Delivered
+ORD1446,2025-10-03,Divya Singh,Male,42,Delhi,Delhi,North,Stationery,Backpack,5,1200,5100.0,0.15,795.18,Net Banking,Delivered
+ORD1447,2025-12-06,Pooja Kumar,Female,21,Hyderabad,Telangana,South,Furniture,Office Chair,3,7500,0.0,0.05,0.0,Cash,Cancelled
+ORD1448,2025-12-02,Arun Raj,Female,50,Pune,Maharashtra,West,Clothing,Jacket,1,3200,3200.0,0.0,-162.95,UPI,Returned
+ORD1449,2025-06-11,Vikram Verma,Male,20,Delhi,Delhi,North,Electronics,Smartphone,2,25000,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1450,2025-09-29,Suresh Iyer,Female,33,Ahmedabad,Gujarat,West,Home & Kitchen,Air Fryer,1,6500,5850.0,0.1,973.05,Net Banking,Delivered
+ORD1451,2025-05-22,Kumar Reddy,Male,23,Pune,Maharashtra,West,Electronics,Headphones,3,2500,7125.0,0.05,540.01,Cash,Delivered
+ORD1452,2025-09-24,Lakshmi Singh,Female,52,Pune,Maharashtra,West,Furniture,Desk,4,12000,43200.0,0.1,8841.1,Credit Card,Delivered
+ORD1453,2025-04-16,Vijay Verma,Male,59,Delhi,Delhi,North,Furniture,Desk,3,12000,28800.0,0.2,5893.22,Net Banking,Delivered
+ORD1454,2025-03-22,Meena Raj,Male,38,Delhi,Delhi,North,Stationery,Notebook,2,250,450.0,0.1,86.72,Cash,Delivered
+ORD1455,2025-07-30,Suresh Das,Female,56,Kolkata,West Bengal,East,Clothing,Jeans,2,1800,3600.0,0.0,260.51,Net Banking,Delivered
+ORD1456,2025-11-10,Anitha Verma,Male,50,Bengaluru,Karnataka,South,Furniture,Office Chair,3,7500,22500.0,0.0,3757.14,Net Banking,Delivered
+ORD1457,2025-08-29,Rahul Sharma,Male,44,Kochi,Kerala,South,Home & Kitchen,Coffee Maker,4,5200,19760.0,0.05,1538.19,UPI,Delivered
+ORD1458,2025-05-19,Naveen Singh,Female,38,Kolkata,West Bengal,East,Furniture,Desk,1,12000,11400.0,0.05,2366.73,Cash,Delivered
+ORD1459,2025-05-07,Naveen Nair,Male,51,Bhubaneswar,Odisha,East,Electronics,Headphones,4,2500,9000.0,0.1,-591.79,UPI,Returned
+ORD1460,2025-08-20,Deepa Kumar,Male,36,Bengaluru,Karnataka,South,Stationery,Desk Organizer,1,600,480.0,0.2,-46.56,Cash,Returned
+ORD1461,2025-07-23,Suresh Reddy,Male,47,Ahmedabad,Gujarat,West,Furniture,Sofa,3,22000,52800.0,0.2,-3239.68,Cash,Returned
+ORD1462,2025-02-16,Pooja Raj,Male,47,Madurai,Tamil Nadu,South,Stationery,Pen Set,4,180,612.0,0.15,64.25,Net Banking,Delivered
+ORD1463,2025-12-31,Divya Das,Female,23,Coimbatore,Tamil Nadu,South,Clothing,Jacket,2,3200,6400.0,0.0,-358.09,Net Banking,Returned
+ORD1464,2025-12-29,Sneha Patel,Female,54,Jaipur,Rajasthan,North,Furniture,Sofa,5,22000,93500.0,0.15,5372.89,Credit Card,Delivered
+ORD1465,2025-03-25,Vijay Sharma,Female,58,Bhubaneswar,Odisha,East,Electronics,Monitor,3,15000,40500.0,0.1,7052.16,Credit Card,Delivered
+ORD1466,2025-03-02,Vijay Singh,Male,56,Chennai,Tamil Nadu,South,Stationery,Backpack,1,1200,1020.0,0.15,137.29,Cash,Delivered
+ORD1467,2025-05-02,Divya Verma,Male,33,Lucknow,Uttar Pradesh,North,Home & Kitchen,Coffee Maker,4,5200,0.0,0.15,0.0,Net Banking,Cancelled
+ORD1468,2025-05-23,Lakshmi Patel,Male,27,Kochi,Kerala,South,Furniture,Office Chair,2,7500,14250.0,0.05,845.89,UPI,Delivered
+ORD1469,2025-12-08,Harish Verma,Male,36,Hyderabad,Telangana,South,Clothing,T-Shirt,1,800,800.0,0.0,96.71,Net Banking,Delivered
+ORD1470,2025-12-05,Lakshmi Verma,Male,37,Bhubaneswar,Odisha,East,Stationery,Pen Set,4,180,576.0,0.2,64.07,Debit Card,Delivered
+ORD1471,2025-07-08,Sneha Raj,Female,51,Bhubaneswar,Odisha,East,Home & Kitchen,Mixer Grinder,3,4200,10710.0,0.15,-950.54,Cash,Returned
+ORD1472,2025-09-26,Divya Singh,Female,45,Jaipur,Rajasthan,North,Electronics,Laptop,5,55000,220000.0,0.2,47920.88,Net Banking,Delivered
+ORD1473,2025-06-12,Karthik Patel,Female,49,Jaipur,Rajasthan,North,Stationery,Backpack,2,1200,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1474,2025-11-09,Anitha Reddy,Male,57,Bengaluru,Karnataka,South,Electronics,Laptop,1,55000,46750.0,0.15,7308.35,Cash,Delivered
+ORD1475,2025-07-31,Kumar Iyer,Male,37,Mumbai,Maharashtra,West,Stationery,Pen Set,1,180,171.0,0.05,28.61,Debit Card,Delivered
+ORD1476,2025-09-17,Ajay Iyer,Male,29,Bhubaneswar,Odisha,East,Electronics,Laptop,3,55000,0.0,0.1,0.0,Credit Card,Cancelled
+ORD1477,2025-06-19,Meena Das,Female,47,Ahmedabad,Gujarat,West,Electronics,Smartphone,4,25000,0.0,0.05,0.0,Cash,Cancelled
+ORD1478,2025-01-29,Pooja Reddy,Male,27,Jaipur,Rajasthan,North,Clothing,T-Shirt,2,800,1280.0,0.2,213.16,Debit Card,Delivered
+ORD1479,2025-01-16,Meena Nair,Male,37,Lucknow,Uttar Pradesh,North,Stationery,Pen Set,5,180,0.0,0.2,0.0,Debit Card,Cancelled
+ORD1480,2025-12-30,Kumar Reddy,Male,51,Pune,Maharashtra,West,Electronics,Monitor,2,15000,27000.0,0.1,3424.25,Debit Card,Delivered
+ORD1481,2025-03-31,Manoj Iyer,Male,30,Bhubaneswar,Odisha,East,Electronics,Smartphone,1,25000,21250.0,0.15,2890.41,Debit Card,Delivered
+ORD1482,2025-09-05,Pooja Reddy,Male,20,Bhubaneswar,Odisha,East,Clothing,Jeans,1,1800,1440.0,0.2,237.66,Cash,Delivered
+ORD1483,2025-07-18,Pooja Raj,Male,51,Chennai,Tamil Nadu,South,Clothing,T-Shirt,5,800,4000.0,0.0,426.64,Debit Card,Delivered
+ORD1484,2025-01-12,Harish Reddy,Female,46,Lucknow,Uttar Pradesh,North,Furniture,Bookshelf,2,6500,0.0,0.05,0.0,UPI,Cancelled
+ORD1485,2025-05-20,Vijay Sharma,Female,53,Hyderabad,Telangana,South,Electronics,Laptop,5,55000,220000.0,0.2,30225.87,Debit Card,Delivered
+ORD1486,2025-05-19,Vijay Reddy,Female,21,Jaipur,Rajasthan,North,Furniture,Desk,1,12000,10800.0,0.1,1665.95,Credit Card,Delivered
+ORD1487,2025-01-15,Vikram Kumar,Female,57,Coimbatore,Tamil Nadu,South,Home & Kitchen,Mixer Grinder,1,4200,3570.0,0.15,-241.65,Debit Card,Returned
+ORD1488,2025-06-09,Meena Singh,Female,37,Kolkata,West Bengal,East,Stationery,Notebook,4,250,800.0,0.2,-45.97,Cash,Returned
+ORD1489,2025-08-29,Anitha Singh,Female,47,Madurai,Tamil Nadu,South,Stationery,Backpack,3,1200,3060.0,0.15,-142.06,Cash,Returned
+ORD1490,2025-01-16,Ravi Das,Male,50,Coimbatore,Tamil Nadu,South,Clothing,Sneakers,4,3500,13300.0,0.05,1303.18,UPI,Delivered
+ORD1491,2025-07-27,Manoj Iyer,Male,57,Delhi,Delhi,North,Electronics,Tablet,5,18000,76500.0,0.15,9037.62,Credit Card,Delivered
+ORD1492,2025-10-08,Priya Das,Female,52,Pune,Maharashtra,West,Electronics,Tablet,2,18000,28800.0,0.2,3550.9,Credit Card,Delivered
+ORD1493,2025-03-30,Ravi Verma,Male,46,Kochi,Kerala,South,Home & Kitchen,Mixer Grinder,5,4200,0.0,0.2,0.0,Credit Card,Cancelled
+ORD1494,2025-06-07,Sneha Raj,Male,26,Jaipur,Rajasthan,North,Electronics,Headphones,4,2500,9000.0,0.1,-224.27,Net Banking,Returned
+ORD1495,2025-11-22,Arun Sharma,Female,30,Lucknow,Uttar Pradesh,North,Furniture,Sofa,5,22000,0.0,0.1,0.0,Credit Card,Cancelled
+ORD1496,2025-12-15,Meena Reddy,Female,26,Jaipur,Rajasthan,North,Clothing,Sneakers,3,3500,0.0,0.0,0.0,Debit Card,Cancelled
+ORD1497,2025-02-01,Rahul Patel,Male,45,Chennai,Tamil Nadu,South,Electronics,Headphones,3,2500,7500.0,0.0,1473.09,Net Banking,Delivered
+ORD1498,2025-07-21,Meena Nair,Male,30,Pune,Maharashtra,West,Home & Kitchen,Coffee Maker,5,5200,24700.0,0.05,4016.79,Net Banking,Delivered
+ORD1499,2025-07-16,Rahul Nair,Male,49,Madurai,Tamil Nadu,South,Clothing,Jeans,2,1800,3600.0,0.0,223.91,Cash,Delivered
+ORD1500,2025-03-11,Ravi Sharma,Female,53,Lucknow,Uttar Pradesh,North,Home & Kitchen,Coffee Maker,5,5200,22100.0,0.15,3446.54,Cash,Delivered
